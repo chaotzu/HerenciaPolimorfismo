@@ -1,0 +1,15 @@
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/bin/Debug/net5.0/HerenciaPolimorfismo.deps.json
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/bin/Debug/net5.0/HerenciaPolimorfismo.runtimeconfig.json
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/bin/Debug/net5.0/HerenciaPolimorfismo.runtimeconfig.dev.json
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/bin/Debug/net5.0/HerenciaPolimorfismo.dll
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/bin/Debug/net5.0/ref/HerenciaPolimorfismo.dll
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/bin/Debug/net5.0/HerenciaPolimorfismo.pdb
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.csprojAssemblyReference.cache
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.AssemblyInfoInputs.cache
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.AssemblyInfo.cs
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.csproj.CoreCompileInputs.cache
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.dll
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/ref/HerenciaPolimorfismo.dll
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.pdb
+/Users/chaos/Documents/Desarrollo/net/HerenciaPolimorfismo/obj/Debug/net5.0/HerenciaPolimorfismo.genruntimeconfig.cache
