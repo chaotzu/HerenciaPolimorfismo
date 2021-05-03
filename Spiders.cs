@@ -2,12 +2,14 @@ using System.Collections.Generic;
 
 namespace HerenciaPolimorfismo
 {
-     class Extraterrestre: SuperHeroe {
+     class Spiders: Extraterrestre {
 
-         private string planeta;
-        public Extraterrestre(string name, string secretId, string planeta) : base(name, secretId) { }
+        private int patas;        
 
-        public Extraterrestre(string name, string secretId, List<SuperPoder> poderes, string planeta) : base(name, secretId, poderes) { }
+        public Spiders(string name, string secretId, string planeta, int patas) : base(name, secretId, planeta) { this.patas = patas; }
+        public Spiders(string name, string secretId, string planeta) : base(name, secretId, planeta) { }
+
+        public Spiders(string name, string secretId, List<SuperPoder> poderes, string planeta) : base(name, secretId, poderes, planeta) { }
 
         public override bool TienePoder(SuperPoder whatPower) {
             return false;

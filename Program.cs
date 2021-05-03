@@ -51,7 +51,7 @@ namespace HerenciaPolimorfismo
                 }//end TestHumans
 
                 static void TestExtraterrestres(){
-                    Extraterrestre Superman = new Extraterrestre("Clark Kent", "Superman", new List<SuperPoder>{SuperPoder.SuperFuerza, SuperPoder.SuperVelocidad});
+                    Extraterrestre Superman = new Extraterrestre("Clark Kent", "Superman", new List<SuperPoder>{SuperPoder.SuperFuerza, SuperPoder.SuperVelocidad}, "Krypton");
                     Console.WriteLine(Superman.Ataca());
                 }
     }
